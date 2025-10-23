@@ -9,12 +9,15 @@
 ## 🌐 Скриншоты работы
 
 ### Лендинг на Bootstrap 5  
-*(добавьте сюда скриншот, например:)*
-![Bootstrap версия](screens/bootstrap.png)
+<img width="1832" height="885" alt="image" src="https://github.com/user-attachments/assets/4fe00ee2-c1e9-499b-95c1-b5fadf3a9936" />
+
+<img width="1830" height="605" alt="image" src="https://github.com/user-attachments/assets/db1e4810-56f0-4c6f-9fb7-a1b7b5f0b324" />
 
 ### Лендинг на Tailwind CSS  
-*(добавьте сюда скриншот, например:)*
-![Tailwind версия](screens/tailwind.png)
+<img width="1824" height="755" alt="image" src="https://github.com/user-attachments/assets/32e0cb6a-ebe3-410a-928b-9ebf3f285bb6" />
+
+<img width="1813" height="587" alt="image" src="https://github.com/user-attachments/assets/93f2f7b6-d158-437d-ac39-74e23c95c30c" />
+
 
 ---
 
