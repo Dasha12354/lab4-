@@ -32,15 +32,15 @@ Bootstrap же удобен для начинающих, но из-за фикс
 ### 2. Пример кода для одного и того же элемента
 
 #### Bootstrap:
+```
 <a href="#features" class="btn btn-light btn-lg mt-3">
-  Посмотреть направления
-</a>
 
+```
 #### Tailwind CSS:
+```
 <a href="#features" class="bg-white text-primary font-semibold px-6 py-3 rounded-full shadow hover:bg-gray-100 transition">
-  Посмотреть направления
-</a>
-
+  
+```
 **Ключевое различие:**  
 - В **Bootstrap** используются заранее определённые классы (`btn`, `btn-light`, `btn-lg`), и внешний вид кнопки задаётся библиотекой.  
 - В **Tailwind** весь стиль формируется напрямую через утилитарные классы (`bg-white`, `text-primary`, `rounded-full` и т.д.), что даёт больше контроля над внешним видом без написания дополнительного CSS.
